@@ -6,11 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![X O design](https://github.com/MhmmadAlHelou/x_o/assets/139993356/4594b8f9-1636-41e2-80f3-6d462f602355)
+![3](https://github.com/MhmmadAlHelou/x_o/assets/139993356/2e91b7e6-d01c-442d-8616-7f31bd8151db)
+![2](https://github.com/MhmmadAlHelou/x_o/assets/139993356/1dda6a08-5079-4147-b77f-69f3fea34a9d)
+![1](https://github.com/MhmmadAlHelou/x_o/assets/139993356/1d99713a-498f-422d-b565-ef20742935a4)
